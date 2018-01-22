@@ -1,0 +1,6 @@
+Fully connected: 
+    5 layers, 200 nodes each:
+        relu activation first 4 layers
+        **linear last layer**
+        adam, mse
+
